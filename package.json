@@ -1,0 +1,23 @@
+{
+  "name": "primer_ejemplo_gitflow_francisconaranjo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fnarnar704/Primer_ejemplo_gitflow_FranciscoNaranjo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fnarnar704/Primer_ejemplo_gitflow_FranciscoNaranjo/issues"
+  },
+  "homepage": "https://github.com/fnarnar704/Primer_ejemplo_gitflow_FranciscoNaranjo#readme",
+  "dependencies": {
+    "mongoose": "^8.19.2"
+  }
+}
